@@ -2,7 +2,7 @@
 
 Welcome to the Stopwatch Application! This project is a simple yet functional stopwatch built using HTML, CSS, and JavaScript. It provides users with an intuitive interface to track time with precision, making it ideal for various activities such as workouts, cooking, studying, or any task that requires time management.
 
-click [demo](https://www.example.com) to see project
+click [demo](https://hastikm.github.io/stopwatch/main/) to see project
 
 ![](image-1.png)
 
